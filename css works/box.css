@@ -1,0 +1,9 @@
+div{
+    color: mediumblue;
+    background-color: moccasin;
+    height: 300px;
+    width: 500px;
+    border: rgb(31, 13, 7) solid 4px;
+    margin-left: 100px;
+    margin-top: 100px;
+}

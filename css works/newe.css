@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Fruktur&display=swap');
+header{
+    background-color: lavender;
+}
+#a2{
+    background-color: khaki;
+    color: crimson;
+}
+#a3{
+    font-style: inherit;
+    color: darkgreen;
+}
+.c4{
+    font-style: italic;
+    color: darkred;
+}
+main{
+    background-color: lightgreen;
+}
+#p1{
+    font-family: 'Dancing Script', cursive;
+
+}
+#p2{
+
+    font-family: 'Fruktur', cursive;
+}

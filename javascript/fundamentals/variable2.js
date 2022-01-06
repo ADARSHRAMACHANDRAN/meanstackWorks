@@ -1,0 +1,2 @@
+var bank_name="sbt", accnt_num="9999",credited_amount="1000",bal="5000";
+console.log(`your ${bank_name} account ${accnt_num} hasbeen credited with amount ${credited_amount}, available balance is ${bal}`);

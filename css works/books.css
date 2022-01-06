@@ -1,0 +1,15 @@
+div{
+    height: 510px;
+    width: 24%;
+    background-color: cornflowerblue;
+    float: left;
+    border: solid 1px;
+}
+img{
+    width: 50%;
+}
+h2{
+    text-align: center;
+}
+img{
+    margin-left: 80px;
